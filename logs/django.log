@@ -1,0 +1,104 @@
+2026-11-21 21:30:30,356 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:30:48,769 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:31:03,960 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:04,009 | INFO | django.server | "GET /static/css/style.css HTTP/1.1" 304 0
+2026-11-21 21:31:05,442 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:05,605 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:05,764 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:05,906 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,076 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,342 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,517 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,671 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,820 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:06,966 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:07,254 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:07,548 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:07,730 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:07,896 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:08,229 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:08,406 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:08,561 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:31:08,727 | INFO | django.server | "GET / HTTP/1.1" 200 8022
+2026-11-21 21:32:40,601 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\models.py changed, reloading.
+2026-11-21 21:32:40,923 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:32:48,087 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\models.py changed, reloading.
+2026-11-21 21:32:48,396 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:32:51,553 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\models.py changed, reloading.
+2026-11-21 21:32:51,877 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:34:46,207 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:34:52,506 | INFO | django.server | "GET /admin/monitoring/visitorlog/18/change/?_changelist_filters=o%3D-2.-6 HTTP/1.1" 200 13659
+2026-11-21 21:34:52,524 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:34:53,109 | INFO | django.server | "GET /admin/monitoring/visitorlog/18/change/?_changelist_filters=o%3D-2.-6 HTTP/1.1" 200 13659
+2026-11-21 21:34:53,128 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:34:53,767 | INFO | django.server | "GET /admin/monitoring/visitorlog/?o=-2.-6 HTTP/1.1" 200 34000
+2026-11-21 21:34:58,109 | INFO | django.server | "GET /admin/ HTTP/1.1" 200 7901
+2026-11-21 21:35:00,940 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 11344
+2026-11-21 21:35:00,955 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:35:06,375 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 11344
+2026-11-21 21:35:06,394 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:35:06,563 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 11344
+2026-11-21 21:35:06,578 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:35:08,684 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 11344
+2026-11-21 21:35:08,702 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:36:27,972 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:38:19,957 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:38:22,105 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:38:22,389 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:38:56,961 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:39:24,903 | ERROR | roziyevdev | TEST: RoziyevDev monitoring ishlayapti
+2026-11-21 21:39:32,641 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 15509
+2026-11-21 21:39:32,658 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:40:13,544 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\middleware.py changed, reloading.
+2026-11-21 21:40:13,895 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:39,158 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:39,482 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:42,624 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:42,949 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:45,079 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:45,359 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:46,488 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:46,767 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:48,907 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:49,198 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:51,328 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:40:51,695 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:40:58,674 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:41:10,307 | WARNING | roziyevdev | HTTP 404 | GET /test-error-page/
+2026-11-21 21:41:10,316 | WARNING | django.request | Not Found: /test-error-page/
+2026-11-21 21:41:10,320 | WARNING | django.server | "GET /test-error-page/ HTTP/1.1" 404 2541
+2026-11-21 21:41:22,699 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 23177
+2026-11-21 21:41:22,714 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:41:32,148 | INFO | django.server | "GET /admin/monitoring/systemlog/22/change/ HTTP/1.1" 200 12048
+2026-11-21 21:41:32,166 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:42:22,228 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\models.py changed, reloading.
+2026-11-21 21:42:22,419 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\models.py changed, reloading.
+2026-11-21 21:42:22,607 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:42:22,780 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:13,194 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\middleware.py changed, reloading.
+2026-11-21 21:43:13,511 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:29,731 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:43:30,026 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:31,161 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.
+2026-11-21 21:43:31,508 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:42,706 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\admin.py changed, reloading.
+2026-11-21 21:43:42,993 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:44,145 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\admin.py changed, reloading.
+2026-11-21 21:43:44,431 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:50,584 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\admin.py changed, reloading.
+2026-11-21 21:43:50,900 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:43:52,059 | INFO | django.utils.autoreload | D:\future\roziyevdev\monitoring\admin.py changed, reloading.
+2026-11-21 21:43:52,379 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:44:00,508 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-11-21 21:44:11,933 | WARNING | roziyevdev | HTTP 404 | GET /.env
+2026-11-21 21:44:11,943 | WARNING | django.request | Not Found: /.env
+2026-11-21 21:44:11,948 | WARNING | django.server | "GET /.env HTTP/1.1" 404 2505
+2026-11-21 21:44:21,773 | INFO | django.server | "GET /admin/monitoring/systemlog/ HTTP/1.1" 200 33107
+2026-11-21 21:44:21,789 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:44:32,062 | INFO | django.server | "GET /admin/monitoring/systemlog/43/change/ HTTP/1.1" 200 12489
+2026-11-21 21:44:32,083 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:44:57,061 | INFO | django.server | "GET /admin/monitoring/securitylog/ HTTP/1.1" 200 14612
+2026-11-21 21:44:57,078 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:45:00,663 | INFO | django.server | "GET /admin/monitoring/securitylog/1/change/ HTTP/1.1" 200 13610
+2026-11-21 21:45:00,679 | INFO | django.server | "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2026-11-21 21:50:16,007 | INFO | django.utils.autoreload | D:\future\roziyevdev\config\settings.py changed, reloading.

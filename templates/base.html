@@ -1,0 +1,111 @@
+
+{% load static %}
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{% block title %}RoziyevDev{% endblock %}</title>
+
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="{% static 'images/logo.png' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+
+    <canvas id="background-canvas"></canvas>
+    <!-- Navbar -->
+    <header class="navbar">
+        <a href="{% url 'home' %}" class="brand">
+            <img src="{% static 'images/logo.png' %}" alt="RoziyevDev logo">
+            <span>RoziyevDev</span>
+        </a>
+
+        <nav class="nav-links">
+            <a href="{% url 'home' %}" class="active">Bosh sahifa</a>
+            <a href="#">Kurslar</a>
+            <a href="#">Blog</a>
+            <a href="#">AlgoArena</a>
+            <a href="#">Men haqimda</a>
+
+            <div class="nav-auth">
+                <a href="#" class="login-btn">Kirish</a>
+                <a href="#" class="register-btn">Ro‘yxatdan o‘tish</a>
+            </div>
+
+        </nav>
+    </header>
+
+    <!-- Main content -->
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+
+    <!-- Footer -->
+    
+    <footer class="footer">
+
+        <div class="footer-main">
+
+            <!-- Logo va sayt nomi -->
+            <div class="footer-brand">
+                <img src="{% static 'images/logo.png' %}" alt="RoziyevDev">
+                <div>
+                    <h3>RoziyevDev</h3>
+                    <p>Learn. Build. Share.</p>
+                </div>
+            </div>
+
+            <!-- Footer navigatsiyasi -->
+            <nav class="footer-links">
+                <a href="#">Blog</a>
+                <a href="#">Ta'lim</a>
+                <a href="#">Loyihalar</a>
+                <a href="#">Men haqimda</a>
+                <a href="#">Aloqa</a>
+            </nav>
+
+            <!-- Ijtimoiy tarmoqlar -->
+            <div class="footer-socials">
+
+                <a href="https://www.instagram.com/roziyevdev/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+
+                <a href="https://t.me/roziyevdev" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                    <i class="fa-brands fa-telegram"></i>
+                </a>
+
+                <a href="https://linkedin.com/company/roziyevdev" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+
+                <a href="https://www.youtube.com/@roziyevdev" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+                    <i class="fa-brands fa-youtube"></i>
+                </a>
+
+                <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                    <i class="fa-brands fa-facebook-f"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+            <p>
+                © {% now "Y" %} RoziyevDev. Barcha huquqlar himoyalangan.
+            </p>
+        </div>
+
+    </footer>
+
+
+    <script src="{% static 'js/main.js' %}"></script>
+</body>
+</html>
